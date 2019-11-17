@@ -26,4 +26,17 @@ This project is completed as the main assessment for the Fundamentals of Data An
 This submission contains a README.md file which contains the purpose of this repository, the outline of the project and intructions to follow to access the repository. It also contains a juypter notebook which contains code, results and analysis as required by the project guidelines.
 
 
-#How to run this repository:
+# How to run this repository:
+Ensure anaconda is installed on your machine as it contains all of the python libraries used in this project.
+Clone this repository to your local machine use the following link: https://github.com/chloemcgarry/Fundamentalsofdataanalysis-project
+
+# References:
+
+1. https://seaborn.pydata.org/tutorial.html
+2. https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
+3. https://rdrr.io/cran/regclass/man/TIPS.html
+4. https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html
+5. https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
+6. https://amitkushwaha.co.in/data-visualization-part-1.html
+7. https://seaborn.pydata.org/tutorial/regression.html
+8. Lecture videos for this module - Fundamentals of Data Analysis
