@@ -40,3 +40,4 @@ Clone this repository to your local machine use the following link: https://gith
 6. https://amitkushwaha.co.in/data-visualization-part-1.html
 7. https://seaborn.pydata.org/tutorial/regression.html
 8. Lecture videos for this module - Fundamentals of Data Analysis
+9. https://seaborn.pydata.org/generated/seaborn.regplot.html
