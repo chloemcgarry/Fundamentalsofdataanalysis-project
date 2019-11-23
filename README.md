@@ -41,3 +41,9 @@ Clone this repository to your local machine use the following link: https://gith
 7. https://seaborn.pydata.org/tutorial/regression.html
 8. Lecture videos for this module - Fundamentals of Data Analysis
 9. https://seaborn.pydata.org/generated/seaborn.regplot.html
+10. https://www.researchgate.net/publication/227345007_Do_people_tip_because_of_psychological_or_strategic_motivations_An_empirical_analysis_of_restaurant_tipping
+11. http://www.ggobi.org/book/chap-data.pdf
+12. https://dicook.public.iastate.edu/stat503/05/cs-tips2.pdf
+13. https://hbr.org/2015/11/a-refresher-on-regression-analysis
+
+
